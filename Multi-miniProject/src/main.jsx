@@ -6,7 +6,7 @@ import Layout from './Layout.jsx'
  import { BgChanger, CurrencyConverter, Home, PasswordGenerator, Github, githubInfoLoader } from './components/index.js'
 
 //first way to put router
-// const router = createBrowserRouter([
+//const router = createBrowserRouter([
 //   {
 //     path: '/',
 //     element: <Layout/>,

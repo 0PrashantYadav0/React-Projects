@@ -1,5 +1,6 @@
 import React from "react";
 import { Link , NavLink} from "react-router-dom";
+import ThemeBtn from "../ThemeBtn/ThemeBtn";
 
 function Navbar() {
   return (
@@ -92,6 +93,7 @@ function Navbar() {
                   Github
                 </NavLink>
               </li>
+              <ThemeBtn/>
             </ul>
           </div>
         </div>

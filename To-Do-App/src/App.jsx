@@ -62,6 +62,6 @@ export default function App() {
                     </div>
                 </div>
             </div>
-    // </TodoProvider>
+    </TodoProvider>
   )
 }
